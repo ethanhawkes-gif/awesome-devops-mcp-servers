@@ -370,6 +370,7 @@ Tools for persistent memory, context management, and knowledge retention for AI 
 ### 💰 API Cost Management
 Tools for tracking and comparing model/API pricing for AI-agent workloads.
 - [benbencodes/llm-prices](https://github.com/benbencodes/llm-prices) 🐍 🏠 - Zero-dependency Python CLI, library, and MCP server for calculating and comparing LLM API costs across major providers.
+- [ethanhawkes-gif/agent-provider-depot](https://github.com/ethanhawkes-gif/agent-provider-depot) 📇 ☁️ - Read-only Streamable HTTP MCP server (`https://getagentdepot.com/api/mcp`) comparing 305 AI agent and DevOps infrastructure providers across 97 jobs-to-be-done with dated picks, sourced pricing, dependency stack audits, evaluation plans, and runtime failure rescue. No API key required.
 
 ## Frameworks
 
